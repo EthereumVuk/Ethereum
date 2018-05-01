@@ -11,3 +11,9 @@
 * [Remix](remix.ethereum.org)
 ## Constructor
 * Constructor function - has the same name as the contract, hence it is the constructor function.  Constructor functions are automatically called one time when the contract is created.  It is invoked automatically when we deploy the contract contract to the blockchain.
+## Functions
+```solidity
+function getMessage() public view returns (string) {
+  return message;
+}
+```
