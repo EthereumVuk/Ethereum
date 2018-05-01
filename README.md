@@ -7,5 +7,6 @@
 * Mist Browser
 * http://rinkeby-faucet.com/
 * [Anders Brownworth](https://anders.com/)
+* [Ethereum Average BlockTime Chart](https://etherscan.io/chart/blocktime)
 ## Constructor
 * Constructor function - 
