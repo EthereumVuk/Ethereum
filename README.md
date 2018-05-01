@@ -10,4 +10,4 @@
 * [Ethereum Average BlockTime Chart](https://etherscan.io/chart/blocktime)
 * [Remix](remix.ethereum.org)
 ## Constructor
-* Constructor function - 
+* Constructor function - has the same name as the contract, hence it is the constructor function
