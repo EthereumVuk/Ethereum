@@ -10,4 +10,4 @@
 * [Ethereum Average BlockTime Chart](https://etherscan.io/chart/blocktime)
 * [Remix](remix.ethereum.org)
 ## Constructor
-* Constructor function - has the same name as the contract, hence it is the constructor function
+* Constructor function - has the same name as the contract, hence it is the constructor function.  Constructor functions are automatically called one time when the contract is created.
