@@ -17,3 +17,6 @@ function getMessage() public view returns (string) {
   return message;
 }
 ```
+* `getMessage()` - Function name
+* `public view` - Function type
+* `returns (string)` - Return types
