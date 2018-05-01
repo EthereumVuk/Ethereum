@@ -5,5 +5,6 @@
 * Web3.js - portal into Ethereum network
 * Metamask
 * Mist Browser
+* http://rinkeby-faucet.com/
 ## Constructor
 * Constructor function - 
