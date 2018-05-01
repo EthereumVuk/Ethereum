@@ -6,5 +6,6 @@
 * Metamask
 * Mist Browser
 * http://rinkeby-faucet.com/
+* [Anders Brownworth](https://anders.com/)
 ## Constructor
 * Constructor function - 
