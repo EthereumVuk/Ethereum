@@ -20,3 +20,4 @@ function getMessage() public view returns (string) {
 * `getMessage()` - Function name
 * `public view` - Function type
 * `returns (string)` - Return types
+* `returns` - used to specify the type of the return value that we can expect to see back from a function, only used on functions that are marked `view` or `constant`
