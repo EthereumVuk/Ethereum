@@ -2,6 +2,7 @@
 * 
 
 # Ethereum
+* [Integrating with Ethereum using MuleSoft – Part 1](https://blogs.mulesoft.com/dev/anypoint-platform-dev/integrating-with-ethereum-using-mulesoft-part-1/?utm_campaign=digest&utm_medium=referral&utm_source=email&mkt_tok=eyJpIjoiTVdVell6WTNOV1l5TVRjMyIsInQiOiI0SFFxWFwvWXNEMWtwaEVLZnV1UXJHMCtSRVd1aElrTXdLcXpLWXkxazlkU0xKSUxFcDd0b1FWWWpocVd4R1hIUWt4TkJ5dE5LczNNOWg0VHUxbmUyOVFrTzMxWGV6eHJXMU1JY1RHMlpZXC8ybm0wYm1VZFRwdUVvcXZuQ2RUcGc3In0%3D)
 * [Ethereum CLI](https://ethereum.org/cli)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Ethereum: The Ultimate Smart Contract and Decentralized Application Platform ](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
